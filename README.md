@@ -5,7 +5,7 @@
 `` pip install -r requirements.txt  ``
 * Use this command to install the required dependencies and packages.
 # How to work with this project
-* Install requirements packages
+* Run the requirements command .
 * Create Django website by using this command - ``  django-admin startproject <project-name> ``
 * Create Django app by using - `` python manage.py startapp <app-name> ``
 * Run the Website by using - `` python manage.py runserver ``
