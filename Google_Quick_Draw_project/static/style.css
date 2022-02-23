@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://image.freepik.com/free-photo/abstract-smooth-empty-grey-studio-well-use-as-background-business-report-digital-website-template-backdrop_1258-55967.jpg");
+    background-size: cover;
+}
+.container {
+    display: block;
+    justify-content: center;
+
+}
+
+canvas {
+    box-shadow: -4px 2px 8px 2px;
+    cursor:pointer;
+}
+.color-picker {
+    margin: 1rem 1rem 0 1rem;
+  }
+
+.ttt{
+    display: inline;
+    margin-left: 40px;
+}
+#time{
+    /* width: 60px; */
+    /* border-radius: 12px; */
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 62px; */
+    font-size: 30px;
+    font-family: 'Gemunu Libre', sans-serif;
+    /* margin:18px; */
+    color: black;
+    /* margin-bottom: 18px; */
+}
+
+.clear-btn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    padding: 2px;
+    border-radius: 9px;
+    font-style: oblique;
+    font-weight: bolder;
+    width: 63px;
+    border: black 1px solid;
+}
+.tools {
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+center div h2{
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.image_to_server{
+    display: none
+}

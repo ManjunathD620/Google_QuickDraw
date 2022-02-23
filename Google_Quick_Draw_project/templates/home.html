@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<center>
+    <div class="header">
+        <h2></h2>
+        <div class="ttt">
+            <!-- <h2 style="display: inline;"><b>Time :</b></h2> -->
+            <h3 id="time"></h3>
+        </div>
+    </div>
+</center>
+<div class="container">
+    <div class="tools">
+        <input type="color" class="js-color-picker  color-picker">
+        <input type="range" class="js-line-range" min='5' max='16' value="2">
+        <label class="js-range-value"></label>Px
+        <button class="clear-btn">CLEAR</button>
+    </div>
+    <div class="draw">
+        <center>
+            <canvas></canvas>
+        </center>
+    </div>
+
+</div>
+
+
+{% endblock body %}
