@@ -62,6 +62,6 @@ Clock  | Donut  | Eye  | Face
 * 12th layer is output layer  which has 20 nodes , to predict 20 classes.
 
 # Result analysis
-| 1. The CNN achieved a accuracy of 98.38% and a val_accuracy of 95.21% the training loss was 0.0501 and the val_loss was 0.1930 over 8 epochs . <br><br> <br> 2. The model reached its peak accuracy at epoch 6 then it started to overfit due to which the training process was stopped by the early stopping mechanism. | ![Screenshot 2022-02-23 142548](https://user-images.githubusercontent.com/82793670/155287653-a08f3378-c0a3-4fa3-98f1-9868392730e4.png) |
+| 1. The CNN achieved a accuracy of 98.38% and a val_accuracy of 95.21% the training loss was 0.0501 and the val_loss was 0.1930 over 8 epochs . <br><br> <br> 2. The model reached its peak accuracy at epoch 5 then it started to overfit due to which the training process was stopped by the early stopping mechanism. | ![Screenshot 2022-02-23 142548](https://user-images.githubusercontent.com/82793670/155287653-a08f3378-c0a3-4fa3-98f1-9868392730e4.png) |
 ------------- | -------------
 
