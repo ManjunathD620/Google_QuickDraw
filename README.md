@@ -1,5 +1,5 @@
 # Google_QuickDraw
- Google Quick Draw implementation in python by using Django framework 
+ Google Quick Draw implementation in python by using Django framework .
  
  # Requirements 
 `` pip install -r requirements.txt  ``
