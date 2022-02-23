@@ -4,7 +4,12 @@
  # Requirements 
 `` pip install -r requirements.txt  ``
 * Use this command to install the required dependencies and packages.
-
+# How to work with this project
+* Install requirements packages
+* Create Django website by using this command - ``  django-admin startproject <project-name> ``
+* Create Django app by using - `` python manage.py startapp <app-name> ``
+* Run the Website by using - `` python manage.py runserver ``
+* Use `views.py` (Contains important methods for handling data at the back-end ) -``Google_QuickDraw/Google_Quick_Draw_project/Draw/ ``
  # Website architecture :
  
 ![Screenshot 2022-02-23 140941](https://user-images.githubusercontent.com/82793670/155285566-608e117d-90a6-42a5-9146-1717dcceaf12.png)
