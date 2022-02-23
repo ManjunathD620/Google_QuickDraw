@@ -31,7 +31,9 @@ https://user-images.githubusercontent.com/82793670/155290847-36b6e28c-26a6-48a2-
 
 
 # Dataset
-The dataset used for training my model could be found at [Quick Draw dataset] https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn. Here I only picked up 20 files for 20 categories
+* The dataset used for training my model could be found at [Quick Draw dataset](https://github.com/googlecreativelab/quickdraw-dataset)
+*  Here I have used [Simplified drawings files (`` .ndjson ``)](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified) to reconstruct the dataset .
+* I have taken 20K images for each category .
 
  # Categories:
  
