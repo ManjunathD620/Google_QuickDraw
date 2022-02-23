@@ -1,0 +1,12 @@
+numpy
+matplotlib
+opencv-python
+tensorflow
+keras
+pandas
+h5py
+scipy
+pillow
+Django
+ndjson
+keras_tuner
